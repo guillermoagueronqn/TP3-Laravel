@@ -5,5 +5,5 @@
 @endSection
 
 @section('content')
-    <h1>Modificar post</h1>
+    <h1>Modificar post {{$id}}</h1>
 @endsection
